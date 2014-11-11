@@ -10,8 +10,19 @@
 
 int main(int argc, char *argv[]) {
     
-    @autoreleasepool {
-        int retVal = UIApplicationMain(argc, argv, nil, @"AppController");
-        return retVal;
-    }
-}
+    @autoreleasepool
+    {
+        int returnValue;
+        @try
+        {
+            returnValue = UIApplicationMain(argc, argv, nil,
+                                            NSStringFromClass([CCAppDelegate class]));
+        }
+        @catch (NSException* exception)
+        {
+            NSLog(@"Uncaught exception: %@, %@", [exception description],
+                     [exception callStackSymbols]);
+            @throw exception;
+        }
+        return returnValue;
+    }}
