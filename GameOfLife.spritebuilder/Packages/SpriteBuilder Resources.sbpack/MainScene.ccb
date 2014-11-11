@@ -405,6 +405,19 @@
 											</dict>
 											<dict>
 												<key>name</key>
+												<string>color</string>
+												<key>type</key>
+												<string>Color3</string>
+												<key>value</key>
+												<array>
+													<real>0.17215053737163544</real>
+													<real>0.17215053737163544</real>
+													<real>0.17215053737163544</real>
+													<real>1</real>
+												</array>
+											</dict>
+											<dict>
+												<key>name</key>
 												<string>dimensions</string>
 												<key>type</key>
 												<string>Size</string>
@@ -610,6 +623,19 @@
 												<string>Check</string>
 												<key>value</key>
 												<false/>
+											</dict>
+											<dict>
+												<key>name</key>
+												<string>color</string>
+												<key>type</key>
+												<string>Color3</string>
+												<key>value</key>
+												<array>
+													<real>0.30569243431091309</real>
+													<real>0.30569243431091309</real>
+													<real>0.30569243431091309</real>
+													<real>1</real>
+												</array>
 											</dict>
 											<dict>
 												<key>name</key>
@@ -820,6 +846,19 @@
 											</dict>
 											<dict>
 												<key>name</key>
+												<string>color</string>
+												<key>type</key>
+												<string>Color3</string>
+												<key>value</key>
+												<array>
+													<real>0.069356195628643036</real>
+													<real>0.069356195628643036</real>
+													<real>0.069356195628643036</real>
+													<real>1</real>
+												</array>
+											</dict>
+											<dict>
+												<key>name</key>
 												<string>dimensions</string>
 												<key>type</key>
 												<string>Size</string>
@@ -997,7 +1036,8 @@
 												<string>Text</string>
 												<key>value</key>
 												<array>
-													<string></string>
+													<string>0
+</string>
 													<false/>
 												</array>
 											</dict>
@@ -1027,6 +1067,19 @@
 												<string>Check</string>
 												<key>value</key>
 												<false/>
+											</dict>
+											<dict>
+												<key>name</key>
+												<string>color</string>
+												<key>type</key>
+												<string>Color3</string>
+												<key>value</key>
+												<array>
+													<real>0.17740209400653839</real>
+													<real>0.17740209400653839</real>
+													<real>0.17740209400653839</real>
+													<real>1</real>
+												</array>
 											</dict>
 											<dict>
 												<key>name</key>
@@ -1133,8 +1186,6 @@
 												</array>
 											</dict>
 										</array>
-										<key>selected</key>
-										<true/>
 									</dict>
 								</array>
 								<key>customClass</key>
@@ -1218,6 +1269,8 @@
 										</array>
 									</dict>
 								</array>
+								<key>selected</key>
+								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
