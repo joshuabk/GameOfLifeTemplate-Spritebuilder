@@ -410,9 +410,9 @@
 												<string>Color3</string>
 												<key>value</key>
 												<array>
-													<real>0.17215053737163544</real>
-													<real>0.17215053737163544</real>
-													<real>0.17215053737163544</real>
+													<real>0.59807765483856201</real>
+													<real>0.59807765483856201</real>
+													<real>0.59807765483856201</real>
 													<real>1</real>
 												</array>
 											</dict>
@@ -631,9 +631,9 @@
 												<string>Color3</string>
 												<key>value</key>
 												<array>
-													<real>0.30569243431091309</real>
-													<real>0.30569243431091309</real>
-													<real>0.30569243431091309</real>
+													<real>0.46865275502204895</real>
+													<real>0.46865275502204895</real>
+													<real>0.46865275502204895</real>
 													<real>1</real>
 												</array>
 											</dict>
@@ -742,6 +742,8 @@
 												</array>
 											</dict>
 										</array>
+										<key>selected</key>
+										<true/>
 									</dict>
 									<dict>
 										<key>UUID</key>
@@ -851,9 +853,9 @@
 												<string>Color3</string>
 												<key>value</key>
 												<array>
-													<real>0.069356195628643036</real>
-													<real>0.069356195628643036</real>
-													<real>0.069356195628643036</real>
+													<real>0.5684809684753418</real>
+													<real>0.5684809684753418</real>
+													<real>0.5684809684753418</real>
 													<real>1</real>
 												</array>
 											</dict>
@@ -1075,9 +1077,9 @@
 												<string>Color3</string>
 												<key>value</key>
 												<array>
-													<real>0.17740209400653839</real>
-													<real>0.17740209400653839</real>
-													<real>0.17740209400653839</real>
+													<real>0.65261930227279663</real>
+													<real>0.65261930227279663</real>
+													<real>0.65261930227279663</real>
 													<real>1</real>
 												</array>
 											</dict>
@@ -1269,8 +1271,6 @@
 										</array>
 									</dict>
 								</array>
-								<key>selected</key>
-								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
